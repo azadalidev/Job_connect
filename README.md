@@ -32,3 +32,20 @@ ________________________________________
 For any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
 Email: mr.azaadkhan812@gmail.com
 
+
+
+
+## Delete Account
+
+If you want to delete your JobConnect account and all associated data:
+
+1. Contact us at **mr.azaadkhan812@gmail.com** with your account email or username.
+2. Request that your account be deleted.
+3. We will remove all personal information you provided, including:
+   - Name, email, contact details
+   - Resume and job application data
+   - Job postings (if you are an employer)
+4. Some anonymized usage data may be retained for analytics and legal compliance.
+
+Your account and data will be permanently deleted within **7 business days**.
+
