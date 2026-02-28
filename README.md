@@ -1,59 +1,34 @@
-JobConnect Privacy Policy
-
-Effective Date: March 1, 2026
-
-JobConnect (“we”, “our”, or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application JobConnect.
-
 1. Information We Collect
-
 We may collect the following information:
-
-Personal information you provide (e.g., name, email, contact details, resume).
-
-Job posting and application information for employers and job seekers.
-
-Device information (device type, OS version, unique device ID).
-
-Usage data (how you interact with the app).
-
+•	Personal Information: Name, email, contact details, resume, and other information you provide.
+•	Job & Application Data: Details related to job postings, applications, and interactions between employers and job seekers.
+•	Device Information: Device type, operating system version, and unique device identifiers.
+•	Usage Data: How you interact with the app, including features used and time spent.
+________________________________________
 2. How We Use Your Information
-
-We use your data to:
-
-Provide and improve the JobConnect app features.
-
-Enable job posting and job search functionality.
-
-Communicate with users about updates or app notifications.
-
-Comply with legal obligations.
-
+We use your information to:
+•	Provide, operate, and improve the JobConnect app.
+•	Enable job posting, job search, and application functionalities.
+•	Communicate updates, notifications, and important messages.
+•	Comply with legal obligations and protect our rights.
+________________________________________
 3. Sharing Your Information
-
-We do not sell or rent your personal information. We may share data with:
-
-Service providers who help us run the app.
-
-Legal authorities if required by law.
-
+We do not sell or rent your personal data. We may share information with:
+•	Trusted service providers who help us operate and maintain the app.
+•	Legal authorities when required by law or to protect our rights and safety.
+________________________________________
 4. Data Security
-
-We implement reasonable measures to protect your information. However, no app or transmission over the Internet is completely secure.
-
+We implement reasonable technical and organizational measures to safeguard your data. However, please note that no method of transmission or storage is completely secure.
+________________________________________
 5. Children’s Privacy
-
-JobConnect is not intended for children under 13. We do not knowingly collect data from children under 13.
-
+JobConnect is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+________________________________________
 6. Your Choices
-
-You can:
-
-Update or delete your account information anytime.
-
-Opt out of notifications in your device settings.
-
+You have the right to:
+•	Update or delete your account information at any time.
+•	Opt out of notifications through your device settings.
+________________________________________
 7. Contact Us
-
-If you have questions about this Privacy Policy, contact us at:
+For any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
 Email: mr.azaadkhan812@gmail.com
 
